@@ -4,6 +4,7 @@
 - 🔭 My main interest is machine learning for Proteomics with an emphasis on infectious disease.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/micheleenharris)
+- 📃 My personal website is: [https://dataqueso.github.io](https://dataqueso.github.io)
 
 <!--
 **dataqueso/dataqueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
