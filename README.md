@@ -1,7 +1,7 @@
 ### Hi there 👋 Micheleen here
 
 - 💃 I’m currently working on a Masters in Bioinformatics at NYU and I also work as a Data Scientist in industry.
-- 🔭 My main interest is machine learning for Proteomics with an emphasis on infectious disease.
+- 🔭 My main interest is machine learning for Proteomics with an emphasis on protein folding and structure search.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/micheleenharris)
 - 📃 My personal website is: [https://dataqueso.github.io](https://dataqueso.github.io)
