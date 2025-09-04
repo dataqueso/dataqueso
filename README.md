@@ -1,9 +1,10 @@
-### Hi there 👋 Micheleen here
+### Hi there 👋 Micheleen here!
 
-- 💃 I’m currently working on a Masters in Bioinformatics at NYU and I also work as a Data Scientist in industry.
-- 🔭 My main interest is machine learning for Proteomics with an emphasis on protein folding and structure search.
+- 💃 I have a Master of Science in Bioinformatics from NYU and work as a Data Scientist in industry.
+- 🔭 My main interest is machine learning for Proteomics with an emphasis on protein structure prediction.
 - 😄 Pronouns: she/her
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/micheleenharris)
+- 🌐 Website: https://dataqueso.github.io
 
 <!--
 **dataqueso/dataqueso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
